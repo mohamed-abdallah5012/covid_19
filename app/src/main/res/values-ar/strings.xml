@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">كورونا 19</string>
+    <string name="countryName">اسم الدوله</string>
+    <string name="deathsPerOneMillion">الوفيات لكل 1 مليون</string>
+    <string name="casesPerOneMillion">الاصابات لكل 1 مليون </string>
+    <string name="active"> الحالات المصابة</string>
+    <string name="recovered"> الحالات المتعافية</string>
+    <string name="critical"> الحالات الحرجة</string>
+    <string name="todayDeaths">الوفيات اليوم</string>
+    <string name="todayCases">المصابين اليوم</string>
+    <string name="deaths"> اجمالى الوفيات</string>
+    <string name="cases"> اجمالى الحالات المصابة</string>
+    <string name="bottom_navigation_section_1">كافة الدول </string>
+    <string name="bottom_navigation_section_2">جمهورية مصر العربية</string>
+    <string name="bottom_navigation_section_3">عن التطبيق </string>
+    <string name="search_bar">بحث </string>
+
+
+</resources>

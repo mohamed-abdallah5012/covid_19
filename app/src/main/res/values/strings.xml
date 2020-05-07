@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Covid_19</string>
+    <string name="deathsPerOneMillion">DeathsPerOneMillion</string>
+    <string name="casesPerOneMillion">CasesPerOneMillion</string>
+    <string name="active">Active States</string>
+    <string name="countryName">Country</string>
+
+
+    <string name="recovered">Recovered States</string>
+    <string name="critical">Critical States</string>
+    <string name="todayDeaths">Today Deaths</string>
+    <string name="todayCases">Today Cases</string>
+    <string name="deaths">Total Deaths</string>
+    <string name="cases">Total Cases</string>
+    <string name="bottom_navigation_section_1">World</string>
+    <string name="bottom_navigation_section_2">Egypt</string>
+    <string name="bottom_navigation_section_3">About</string>
+    <string name="search_bar">Search</string>
+</resources>
